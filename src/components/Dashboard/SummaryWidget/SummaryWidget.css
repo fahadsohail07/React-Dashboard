@@ -1,0 +1,10 @@
+.summary-amount {
+  font-size: 32px;
+  font-weight: bold;
+  color: rgb(40, 40, 80);
+}
+
+.summary-name {
+  color: rgb(40, 40, 80);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

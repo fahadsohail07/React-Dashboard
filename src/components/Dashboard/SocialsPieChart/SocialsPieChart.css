@@ -1,0 +1,31 @@
+.pie-chart {
+  background-color: white;
+}
+
+.pie-chart button {
+  height: 32px;
+  width: 100px;
+  border-radius: 16px;
+  margin-right: 5px;
+  margin-bottom: 2px;
+}
+
+.pie-chart button:hover {
+  cursor: pointer;
+}
+
+.pie-chart p {
+  font-weight: bold;
+  color: rgb(109, 88, 88);
+}
+
+.selected {
+  background-color: #1c3353;
+  border: 1px solid #1c3353;
+  color: white;
+}
+
+.not-selected {
+  background-color: rgb(96, 214, 214);
+  border: 1px solid rgb(96, 214, 214);
+}
